@@ -1,0 +1,25 @@
+.back{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    width: 300px;
+    height: 180px;
+    background-color:red;
+}
+.google{
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 5px;
+    position: absolute;
+    z-index: 2;
+    width: 290px;
+    height: 180px;
+    background-color: black;
+    background-color:royalblue ;
+}
+.google h1{
+    margin-top: 65px;
+    text-align: center;
+    color:darkblue;
+}
